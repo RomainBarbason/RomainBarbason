@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomainBarbason&layout=compact&langs_count=6&theme=dark" alt="Top languages" />
+<img align="left" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomainBarbason&exclude_repo=GameJam2022&layout=compact&langs_count=6&theme=dark" alt="Top languages" />
 <!--
 **RomainBarbason/RomainBarbason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

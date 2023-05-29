@@ -1,5 +1,5 @@
 ### Welcome to my epic github page yo 👋
-<img align="left" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomainBarbason&exclude_repo=GameJam2022,Linux-Game-Jam-2023&layout=compact&langs_count=6&theme=dark" alt="Top languages"/>
+<img align="left" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomainBarbason&exclude_repo=GameJam2022,Linux-Game-Jam-2023&hide=GDScript,GAP&layout=compact&langs_count=6&theme=dark" alt="Top languages"/>
 haha funny stats go brrrrrrrrrrrrrr
 <br>
 To be absolutely clear:

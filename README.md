@@ -10,7 +10,7 @@ I have no idea of what I'm doing
 <br>
 <br>
 - 🔭 I’m currently working on: chasing ducks in a lake <br>
-- 🌱 I’m currently learning: how to succesfully catch ducks in lakes <br>
+- 🌱 I’m currently learning: how to successfully catch ducks in lakes <br>
 - 👯 I’m looking to collaborate on: ducks <br>
 - 🤔 I’m looking for help with: catching ducks in lakes <br>
 - 💬 Ask me about: ducks catching <br>

@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome to my epic github page yo 👋
 <img align="left" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomainBarbason&exclude_repo=GameJam2022,Linux-Game-Jam-2023&layout=compact&langs_count=6&theme=dark" alt="Top languages" />
+haha funny stats go brrrrrrrrrrrrrr
 <!--
 **RomainBarbason/RomainBarbason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+To be absolutely clear:
+I have no idea of what I'm doing
